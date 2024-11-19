@@ -1,0 +1,5 @@
+outs:
+- md5: 77128216091e67026997d15714cb16e2
+  size: 800000128
+  hash: md5
+  path: dummy_dataset.npy
